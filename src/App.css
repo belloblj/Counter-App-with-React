@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+.App {
+  color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  margin: 20px 400px;
+}
+h1 {
+  margin-left: 200px;
+
+}
+button {
+  width: 100px;
+  padding: 20px 25px 20px 25px;
+  margin: 20px;
+  border-radius: 35%;
+  background-color: aqua;
+}
